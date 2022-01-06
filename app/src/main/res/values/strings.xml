@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Zufarsyah Github</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="setting">Pengaturan</string>
+
+
+    <string name="dummy_username">\u0040%s</string>
+    <string name="dummy_name">No Name</string>
+    <string name="dummy_repository">Repository: %d</string>
+    <string name="dummy_company">No Company</string>
+    <string name="dummy_location">No Location</string>
+    <string name="dummy_followers">Followers: %d</string>
+    <string name="dummy_following">Following: %d</string>
+    <string name="image_splashscreen">Image SplashScreen</string>
+    <string name="favorite">Favorite</string>
+    <string name="find_username">Find username</string>
+    <string name="share">Share</string>
+</resources>
